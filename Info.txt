@@ -1,0 +1,12 @@
+La consigna consiste en realizar la ampliación de la API provista por la cátedra. Deberán cumplir con los siguientes requisitos:
+1. Crear el endpoint ‘/usuarios/’, que devuelva el listado completo de usuarios.
+2. Crear el endpoint ‘/usuarios/id’ que devuelva los datos de un usuario en particular consignado por su número de id.
+3. Crear el endpoint ‘/usuarios/’ que permita guardar un nuevo usuario.
+4. Crear el endpoint ‘/usuarios/id’ que permita modificar algún atributo de un usuario.
+5. Crear el endpoint ‘/usuarios/id’ que permita borrar un usuario de los datos.
+6. Crear el endpoint que permita obtener el precio de un producto que se indica por id.
+7. Crear el endpoint que permita obtener el nombre de un producto que se indica por id.
+8. Crear el endpoint que permita obtener el teléfono de un usuario que se indica por id.
+9. Crear el endpoint que permita obtener el nombre de un usuario que se indica por id.
+10. Crear el endpoint que permita obtener el total del stock actual de productos, la sumatoria de los precios individuales.
+11. Definir en el archivo ‘consultas.http’ todas las request para comprobar el funcionamiento de la API.
